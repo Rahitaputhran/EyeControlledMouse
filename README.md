@@ -1,0 +1,1 @@
+This project uses OpenCV, Mediapipe, and PyAutoGUI to control the mouse cursor using eye movements. It detects facial landmarks, tracks eye position, and moves the cursor accordingly, with blinking triggering a mouse click. Requirements include OpenCV, Mediapipe, and PyAutoGUI. Run the script to enable eye-tracking-based cursor control.
